@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/Game-Space.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Game-Space/SpaceShipSubScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 1
+- path: Assets/Scenes/Game-Space/AsteroidSubScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 1
+- path: Assets/Scenes/Game-Space/PickUpSubScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 1
